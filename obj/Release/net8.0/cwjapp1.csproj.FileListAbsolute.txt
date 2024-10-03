@@ -28,3 +28,4 @@
 /Users/anthonyochuba/WebAppLearning/cwjapp1/obj/Release/net8.0/cwjapp1.pdb
 /Users/anthonyochuba/WebAppLearning/cwjapp1/obj/Release/net8.0/cwjapp1.genruntimeconfig.cache
 /Users/anthonyochuba/WebAppLearning/cwjapp1/obj/Release/net8.0/ref/cwjapp1.dll
+/Users/anthonyochuba/WebAppLearning/cwjapp1/obj/Release/net8.0/cwjapp1.sourcelink.json
